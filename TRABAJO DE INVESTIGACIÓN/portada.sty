@@ -1,0 +1,85 @@
+%*****************************************************************************
+% Carátula
+%*****************************************************************************
+\renewcommand{\maketitle}
+{
+    \thispagestyle{empty}
+    \begin{center}
+        
+        {\Large{UNIVERSIDAD NACIONAL DE SAN ANTONIO ABAD DEL CUSCO}}\\ [0.5cm]
+        FACULTAD DE INGENIERÍA ELÉCTRICA, ELECTRÓNICA, INFORMÁTICA Y MECÁNICA \\ [0.5cm]
+        ESCUELA PROFESIONAL DE INGENIERÍA ELECTRÓNICA\\
+    \end{center}
+    
+    \begin{figure}[h]
+    \center
+    \includegraphics[scale = 0.26]{graficos/escudo}
+    \end{figure}
+
+    \begin{center}
+        % Generar titulo
+        \text{PROYECTO DE CURSO} \\
+        \rule{156mm}{0.7mm} \\ 
+        {\Large \textbf{``Robots en la medicina: cirugía asistida, prótesis y exoesqueletos."} \par}
+        \rule{156mm}{0.7mm} \\
+    \end{center}
+
+    \setlength{\tabcolsep}{7em} 
+    {\renewcommand{\arraystretch}{0.9}
+    \begin{tabular}{p{14cm}}
+
+        Presentado por: \\ [0.2cm]
+        \qquad {\large Jesus Leonardo Ima Chuquichampi - 200834}\\
+        \vspace*{\stretch{1}}
+        \qquad {\large Yerson Adlai Ulloa Parque - 200835}\\
+        \vspace*{\stretch{1}}
+        \qquad {\large Davis Bremdow Salazar Roa - 200353}\\
+        \vspace*{\stretch{1}}
+
+        Curso: \\ [0.2cm]
+        \qquad {\large Introducción de la Robótica}\\
+        \vspace*{\stretch{1}}
+        
+        Profesor: \\ [0.2cm]
+        \qquad {\large Ing. Ruben Dario Florez Zela }\\
+        \vspace*{\stretch{1}}
+
+        \vspace*{\stretch{1}}
+        %\vspace*{0.05cm}
+
+    \end{tabular}
+    }
+    \begin{center}
+        Octubre, 2025
+    \end{center}
+    
+    \vspace*{\stretch{1}}
+
+}
+
+%*****************************************************************************
+% Resumen
+%*****************************************************************************
+\newenvironment{resumen}
+{
+    \chapter*{Resumen}
+    \hrule
+    \vspace*{0.5cm}
+    \narrower
+    \vfill
+    \thispagestyle{empty}
+}
+{
+    \vfill
+    \vfill
+    \vfill
+    \clearpage
+}
+
+%*****************************************************************************
+% Párrafos
+%*****************************************************************************
+\parindent 1cm
+\parskip 0.4cm
+
+
