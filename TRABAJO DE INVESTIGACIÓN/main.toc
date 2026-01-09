@@ -1,0 +1,22 @@
+\babel@toc {spanish}{}\relax 
+\contentsline {chapter}{\'{I}ndice de cuadros}{V}{chapter*.4}%
+\contentsline {chapter}{Lista de Tablas}{V}{chapter*.4}%
+\contentsline {chapter}{\'{I}ndice de figuras}{VI}{chapter*.5}%
+\contentsline {chapter}{Lista de Figuras}{VI}{chapter*.5}%
+\contentsline {chapter}{\numberline {1}Introducción}{1}{chapter.1}%
+\contentsline {chapter}{\numberline {2}Marco Teórico}{2}{chapter.2}%
+\contentsline {subsection}{\numberline {2.0.1}Cirugía Laparoscópica (Década de 1980)}{2}{subsection.2.0.1}%
+\contentsline {subsection}{\numberline {2.0.2}Puma 560 (1985)}{3}{subsection.2.0.2}%
+\contentsline {subsection}{\numberline {2.0.3}Rodoboc (1992)}{3}{subsection.2.0.3}%
+\contentsline {subsection}{\numberline {2.0.4}Primeras Prótesis Mioeléctricas (Décadas de 1960-1980)}{4}{subsection.2.0.4}%
+\contentsline {subsection}{\numberline {2.0.5}Investigación en Cibernética y Biónica (Mitad del siglo XX)}{5}{subsection.2.0.5}%
+\contentsline {chapter}{\numberline {3}Desarrollo del tema}{6}{chapter.3}%
+\contentsline {subsubsection}{\numberline {3.0.0.1}Manipuladores montados sobre sillas de ruedas}{6}{subsubsection.3.0.0.1}%
+\contentsline {subsubsection}{\numberline {3.0.0.2}Sistemas móviles autónomos}{6}{subsubsection.3.0.0.2}%
+\contentsline {subsubsection}{\numberline {3.0.0.3}Sillas de rueda con guiado autónomo}{7}{subsubsection.3.0.0.3}%
+\contentsline {subsubsection}{\numberline {3.0.0.4}Robots asistenciales para la navegación}{7}{subsubsection.3.0.0.4}%
+\contentsline {chapter}{\numberline {4}Análisis y discusión}{9}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Beneficios médicos demostrados}{9}{section.4.1}%
+\contentsline {chapter}{\numberline {5}Conclusiones}{10}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Hipótesis General}{10}{section.5.1}%
+\contentsline {chapter}{Bibliograf\'{\i }a}{11}{chapter*.8}%
